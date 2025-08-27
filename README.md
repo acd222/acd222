@@ -1,12 +1,15 @@
-👋 Hi, I'm Ayan — a curious learner on the path to becoming a Data Engineer.
+👋 Hi, I'm Ayan — a data enthusiast on a journey to become a thoughtful and impactful Data Analyst.
 
-🔍 I explore Python, SQL, Excel analytics, and data visualization tools with a methodical mindset.
+📊 I explore data with Python, SQL, Excel, and visualization tools like matplotlib and Power BI.
 
-🎯 Currently focused on:
-- Building strong foundations in data pipelines and ETL processes
-- Understanding cloud platforms like AWS and GCP
-- Practicing real-world data wrangling and transformation
+🔍 My approach: methodical, curious, and always seeking meaning behind the numbers.
 
-📚 I also love connecting technical learning with cultural depth—especially through Bengali poetry and film.
+🎯 Current focus:
+- Data cleaning, transformation, and storytelling
+- SQL queries and Excel dashboards
+- Visualizing insights with Python and BI tools
+- Connecting data to real-world decisions
 
-🛠️ Let’s build something meaningful, one dataset at a time.
+🎬 I also enjoy interpreting Bengali poetry and film — because analysis isn't just technical, it's emotional too.
+
+📈 Let’s turn data into understanding.
