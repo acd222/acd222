@@ -1,25 +1,25 @@
 📊 Data Analyst Journey
 
-Welcome! I'm Ayan, and this repository documents my hands-on learning as I work toward becoming a data analyst.
+Hello, I’m Ayan De — an aspiring Data Analyst passionate about transforming raw information into meaningful insights. This repository showcases my continuous learning, practical exercises, and evolving skills in data analytics and visualization.
 
 🎯 Goals
-- Strengthen Python skills for data manipulation and analysis
-- Practice SQL for querying and joining datasets
-- Build Excel dashboards and apply logical formulas
-- Visualize insights using matplotlib, seaborn, and Power BI
-- Learn to tell compelling stories with data
+- Strengthen proficiency in Python for data manipulation and analysis
+- Advance SQL skills for efficient querying and database management
+- Build interactive Excel dashboards and apply logical formulas
+- Develop data visualizations using Matplotlib, Seaborn and Power BI
+- Enhance storytelling with data through clear insights and visual narratives
 
 📂 Repository Structure
-- `python-exercises/` → Data cleaning, EDA, and mini-projects
-- `sql-practice/` → Query challenges and case studies
-- `excel-dashboards/` → Sample dashboards and formulas
-- `visualizations/` → Charts and plots with Python
-- `notes/` → Reflections, resources, and learning logs
+- `python-exercises/` → Hands-on work with data cleaning, exploratory analysis and mini-projects
+- `sql-practice/` → Query challenges, case studies and problem-solving exercises
+- `excel-dashboards/` → Interactive dashboards, charts and formula-based analyses
+- `visualizations/` → Visual experiments with Python-based libraries
+- `notes/` → Learning reflections, study materials and key takeaways
 
-🧠 Why This Matters
-I believe data analysis is not just about numbers—it's about uncovering patterns, solving problems, and making informed decisions. This repo is my sandbox for learning and sharing.
+🧠 My Approach
 
-📌 Status
-This is a beginner-friendly, evolving repository. I’ll be updating it regularly as I grow.
+For me, data analysis goes beyond numbers — it’s about finding clarity in complexity, identifying trends, and supporting informed decision-making. Each project here represents a small step in mastering that craft.
 
-Thanks for visiting!
+📌 Current Status
+
+This is a work-in-progress, beginner-friendly repository that evolves as I grow in the field. I update it regularly with new projects, analyses, and insights gained along the journey.
